@@ -7,6 +7,39 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I'm Junteng Liu, a first-year PhD candidate at HKUST NLP Group. My research focuses on natural language processing and machine learning. 
+
+I'm currently a research intern at MINIMAX (February 2025–Present). Previously, I was a research intern at Tencent WXG (June 2024–September 2024) under the guidance of Zifei Shan, and at Shanghai AI Lab (June 2023–December 2023) under Prof. Yu Cheng. Before that, I completed my undergraduate studies at Shanghai Jiao Tong University (SJTU), graduating in June 2024, where I was advised by Professor Junxian He.
+
+My research interests include LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM Truthfulness and Interpretability.
+
+### Education
+* **Ph.D. in Computer Science** (2024–Present), Hong Kong University of Science and Technology (HKUST)
+* **B.Eng.** (2020–2024), Shanghai Jiao Tong University (SJTU) — Graduated with honors, received Zhiyuan Honor Scholarship
+
+### Research Experience
+* **Research Intern**, MINIMAX (February 2025 – Present)
+* **Research Intern**, Tencent WXG (June 2024 – September 2024) — Advised by Zifei Shan
+* **Research Intern**, Shanghai AI Lab (June 2023 – December 2023) — Advised by Prof. Yu Cheng
+
+### Publications
+Please see below for a list of my publications. You can also find them [on my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+
+<!-- Published 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' (2025) - First author -->
+<!-- Published 'On the Perception Bottleneck of VLMs for Chart Understanding' (2025) - First author -->
+<!-- Published 'On the Universal Truthfulness Hyperplane Inside LLMs' at EMNLP 2024 - First author -->
+<!-- Co-authored 'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation' at ICML 2024 -->
+<!-- Co-authored 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models' at NeurIPS 2023 -->
+<!-- Co-authored 'Composing Parameter-Efficient Modules with Arithmetic Operations' at NeurIPS 2023 -->
+
+### Contact
+* **Email:** jliugi@connect.ust.hk
+* **GitHub:** [Vicent0205](https://github.com/Vicent0205)
+* **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* **X (Twitter):** [@junteng88716710](https://twitter.com/junteng88716710)
+
+---
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
