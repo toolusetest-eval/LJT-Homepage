@@ -25,12 +25,12 @@ My research interests include LLM Reasoning and Reinforcement Learning, Hallucin
 ### Publications
 Please see below for a list of my publications. You can also find them [on my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
-<!-- Published 'SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond' (2025) - First author -->
-<!-- Published 'On the Perception Bottleneck of VLMs for Chart Understanding' (2025) - First author -->
-<!-- Published 'On the Universal Truthfulness Hyperplane Inside LLMs' at EMNLP 2024 - First author -->
-<!-- Co-authored 'In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation' at ICML 2024 -->
-<!-- Co-authored 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models' at NeurIPS 2023 -->
-<!-- Co-authored 'Composing Parameter-Efficient Modules with Arithmetic Operations' at NeurIPS 2023 -->
+* **"SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"** (2025, ArXiv) — First author. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. [GitHub](https://github.com/...)
+* **"On the Perception Bottleneck of VLMs for Chart Understanding"** (2025, ArXiv) — First author. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. [GitHub](https://github.com/Vision4Chart)
+* **"On the Universal Truthfulness Hyperplane Inside LLMs"** (2024, EMNLP) — First author. Co-authors: Shiqi Chen, Yu Cheng, Junxian He. [GitHub](https://github.com/Universal_Truthfulness_Hyperplane)
+* **"In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"** (2024, ICML) — Co-authored. Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
+* **"C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"** (2023, NeurIPS) — Co-authored. Authors: Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
+* **"Composing Parameter-Efficient Modules with Arithmetic Operations"** (2023, NeurIPS) — Co-authored. Authors: Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
 ### Contact
 * **Email:** jliugi@connect.ust.hk
@@ -42,7 +42,7 @@ Please see below for a list of my publications. You can also find them [on my Go
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+ You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration file and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
@@ -58,7 +58,7 @@ For those users that need more advanced functionality, the template also support
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this toolset-eval" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
