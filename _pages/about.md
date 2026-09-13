@@ -38,14 +38,14 @@ Natural language processing, machine learning, large language models, and deep l
 
 ## Publications
 
-1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv; *first author*). With Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. [GitHub](https://github.com)
+1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, arXiv; *first author*). With Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He.
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, arXiv; *first author*). With Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. [GitHub: Vision4Chart](https://github.com)
-3. **On the Universal Truthfulness Hyperplane Inside LLMs**. EMNLP 2024 (*first author*). With Shiqi Chen, Yu Cheng, Junxian He. [GitHub](https://github.com)
+3. **On the Universal Truthfulness Hyperplane Inside LLMs**. EMNLP 2024 (*first author*). With Shiqi Chen, Yu Cheng, Junxian He.
 4. **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**. ICML 2024. With Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
 5. **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**. NeurIPS 2023. With Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He.
 6. **Composing Parameter-Efficient Modules with Arithmetic Operations**. NeurIPS 2023. With Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He.
 
-More publications are listed on the [Publications]({{ site.baseurl }}{% raw %}{% endraw %}/publications/) page.
+More publications are listed on the [Publications](/publications/) page.
 
 ## Contact
 
